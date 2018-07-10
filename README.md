@@ -1,6 +1,6 @@
 
 # TIC
-El Departamento de Orientación ha diseñado dos herramientas *TIC* para el Tutor/a, con el objetivo de ofrecer información relevante que pueda ser de utilidad en la acción tutorial y orientadora:  el *Blog* y el *Cuaderno del Tutor*.
+El Departamento de Orientación ha diseñado dos herramientas **TIC** para el Tutor/a, con el objetivo de ofrecer información relevante que pueda ser de utilidad en la acción tutorial y orientadora:  el **Blog** y el **Cuaderno del Tutor**.
 
 ## <span style="color:green">Blog</span> 
 Herramienta diseñada para ofrecer un espacio de información e intercambio de experiencias que puedan ser relevantes a toda la Comunidad Educativa.  
