@@ -10,5 +10,7 @@ Herramienta diseñada para ofrecer un espacio de información e intercambio de e
 ## <span style="color:orange">Cuaderno del Tutor</span> 
 Aplicación web desarrollada con el objetivo de gestionar la documentación relevante que pueda ser de utilidad en la acción tutorial y orientadora. 
 
-- Para acceder al Cuaderno del Tutor pincha [<span style="color:orange">aquí</span>](http://rpubs.com/Raq/cuaderno_del_tutor).
+- Para acceder a la presentación del Cuaderno del Tutor pincha [<span style="color:orange">aquí</span>](http://rpubs.com/Raq/cuaderno_del_tutor).
+- Para acceder al Cuaderno del Tutor pincha [<span style="color:orange">aquí</span>](https://scontador.shinyapps.io/cuaderno_del_tutor).
+
 
